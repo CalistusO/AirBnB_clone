@@ -1,6 +1,6 @@
 #!/usr/bin/python3
 """Defines the HBnB console."""
-import cmd
+import cm
 import re
 from shlex import split
 from models import storage
